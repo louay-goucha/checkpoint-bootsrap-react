@@ -1,0 +1,7 @@
+.formtag{
+display: grid;
+margin: auto;
+text-align: center;
+max-width: 300px;
+width: 100%;
+}
